@@ -73,8 +73,10 @@ span {
 
 .container-img ul li:hover {
    background-color: hsl(75, 94%, 57%);
-   color: hsl(0, 0%, 8%);
 }
+
+.container-img ul li a:hover {
+    color:hsl(0, 0%, 8%);}
 
 
 .attribution { font-size: 11px; text-align: center;color:hsl(0, 0%, 100%) }
